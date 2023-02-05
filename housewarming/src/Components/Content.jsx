@@ -13,7 +13,7 @@ export default function Content(){
         </ul>
         <h3>Venue</h3>
         <p>No:96,100 Gomathi Amman nagar. Perangavur</p>
-        <h4 ><a className="maplocation" href="https://www.google.com/maps/@/data=!4m3!11m2!2sDEFdhTOz0PxGWti0O8PI2GMmHxxGcQ!3e3?utm_source=mstt_0&g_ep=CAESCTExLjYwLjcwMxgAILffASoAQgJJTg%3D%3D" target="_blank" rel="noopener noreferrer">Click for Google Map Location</a></h4>
+        <h4 ><a className="maplocation" href="https://www.google.com/maps/@/data=!4m3!11m2!2sDEFdhTOz0PxGWti0O8PI2GMmHxxGcQ!3e3?utm_source=mstt_0&g_ep=CAESCTExLjYwLjcwMxgAILffASoAQgJJTg%3D%3D" target="_blank" rel="noopener noreferrer">Click Here for Google Map Location</a></h4>
         <h3>Landmarks</h3>
         <ul>
             <li>28min From Padi flyover</li>
