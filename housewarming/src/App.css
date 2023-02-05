@@ -1,12 +1,21 @@
-
-.headContainer{
-  background-image: url(/bg.jpg);
-  height: 575px;
-  width: 100%;
- position: relative;
+.App {
+ background-image: url(/house.jpg); 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  filter: opacity(-6);
+}
+
+.headContainer >img {
+  width: 250px;
+}
+
+.headContainer{
+  /* background-image: url(/bg.jpg); */
+  width: 100%;
+  /* background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; */
   color: goldenrod;
 justify-content: space-between;
   display: flex;
@@ -16,16 +25,9 @@ justify-content: space-between;
   font-family: 'Parisienne',sans-serif;
 }
 
-.familyphoto {
-  position: absolute;
-  width: 160px;
-  height: 170px;
-  top: 285px;
-  border-radius: 30%;  
-}
 
 .headContainer>h1 {
-  margin-top: 205px;
+  margin-top: 10px;
   width: 60%;
   height: 30px;
   font-size: 1.5rem;
@@ -41,7 +43,7 @@ margin-bottom: 68px;
 .content {
   color: #ff0054;
   padding: 15px;
-  background-color: #eff5f5;
+  /* background-color: #eff5f5; */
   
 }
 
@@ -49,7 +51,7 @@ footer {
   border-top: 1px solid black;
   padding: 10px;
   color: #ff0054;
-  background-color: #ecb390;
+  /* background-color: #ecb390; */
 }
 
 
@@ -146,7 +148,6 @@ margin-bottom: 0;
   margin-top: 20px;
 }
 .maplocation{
-  text-decoration: none;
   color: black;
 }
 
