@@ -3,6 +3,8 @@ export default function Footer(){
         <footer>
         <h3>Contacts</h3>
         <div className="linkContainer">
+        <div className="flexcontainers">
+
         <a href="tel:+918870142198" className="phonelinks">
                 <i class='fas fa-phone'></i>
         <p>Kalyan</p>
@@ -11,6 +13,9 @@ export default function Footer(){
                 <i class='fas fa-phone'></i>
         <p>Karnunakaran</p>
         </a>
+        </div>
+        <div className="flexcontainers">
+
         <a href="tel:+919566162071" className="phonelinks">
                 <i class='fas fa-phone'></i>
         <p>Nimmi</p>
@@ -19,6 +24,7 @@ export default function Footer(){
                 <i class='fas fa-phone'></i>
         <p>Jeevitha</p>
         </a>
+         </div>
 
         </div>
      
