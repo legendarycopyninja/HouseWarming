@@ -2,8 +2,7 @@
   background-image: url(/house.jpg); 
   background-repeat:no-repeat;
   background-size: cover;
-  background-position: center;
-
+  background-position:center center;
 }
 
 .headContainer{
@@ -47,7 +46,6 @@
   text-align: center;
 }
 
-
 .maincontent {
   padding: 0px 5px 10px 5px;
   color: #2C3639;
@@ -66,6 +64,7 @@
   text-align: center;
   margin-bottom: 0px;
   font-weight: 600;
+  margin-top: 15px;
 }
 
 .timertitle {
@@ -91,6 +90,7 @@
    margin-bottom: 5px;
    text-align: center;
    margin-top: 18px;
+   padding: 0px 15px;
 }
 
 .bottomcontent {
