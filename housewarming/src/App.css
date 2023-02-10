@@ -69,6 +69,19 @@
 .fa-solid {
   font-size: 3rem;
   color: #ff0054;
+  animation: animate 1.5s linear infinite;
+}
+
+@keyframes animate{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 0.9;
+  }
+  100%{
+    opacity: 1;
+  }
 }
 
 .timertitle {
