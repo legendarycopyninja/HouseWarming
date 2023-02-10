@@ -14,6 +14,7 @@ export default function Content(){
                     <a  href="https://www.google.com/maps/@/data=!4m3!11m2!2sDEFdhTOz0PxGWti0O8PI2GMmHxxGcQ!3e3?utm_source=mstt_0&g_ep=CAESCTExLjYwLjcwMxgAILffASoAQgJJTg%3D%3D" target="_blank" rel="noopener noreferrer">
                         <i className="fa-solid fa-location-dot"></i>
                     </a>
+                <p>Map Location</p>
                 </div>
                 <h3 className="timertitle">Timings</h3>
                     <p className="timercontent">

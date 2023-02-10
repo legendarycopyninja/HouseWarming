@@ -20,7 +20,7 @@ export default function Footer(){
                                 </a>
                                 <a href="tel:+919600578546" className="phonelinks">
                                         <i class='fas fa-phone'></i>
-                                <p>Sirisha</p>
+                                <p>Jeevitha</p>
                                 </a>
                         </div>
                 </div>
